@@ -1,19 +1,20 @@
-To Do App
+# To Do App
 
 This is a simple To Do application built with HTML, CSS, and JavaScript, created for learning purposes.
 
-🚀 Live Demo
+## 🚀 Live Demo
 
 👉 [Try the app here](https://satoshi-stprojects.github.io/todo_app/)
 
-✅ Features
-	•	Add tasks by button or Enter key
-	•	Mark tasks as completed
-	•	Completed tasks appear separately with strikethrough style
-	•	Delete completed tasks
-	•	Task counters for both active and completed lists
+## ✅ Features
 
-📝 Note
+- Add tasks by button or Enter key  
+- Mark tasks as completed  
+- Completed tasks appear separately with strikethrough style  
+- Delete completed tasks  
+- Task counters for both active and completed lists
 
-This project was created as part of my JavaScript learning process.
+## 📝 Note
+
+This project was created as part of my JavaScript learning process.  
 More mini apps are coming soon!
