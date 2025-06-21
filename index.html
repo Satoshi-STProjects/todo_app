@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To Do List</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="todo-container">
+    <h1>To Do List<span id="todo-count">（0）</span></h1>
+    <input type="text" id="task-input" placeholder="Enter a New Task">
+    <button id="add-task-button">Add</button>
+    <ul id="task-list"></ul>
+  </div>
+
+  <div class="completed-container">
+    <h1>Completed Tasks<span id="completed-count">（0）</span></h1>
+    <ul id="completed-list"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
